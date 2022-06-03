@@ -176,3 +176,11 @@ li {
     transform: rotate(360deg);
   }
 }
+
+.text-section-break {
+  margin-top: 15px;
+}
+
+.form-group {
+  width: 20%;
+}

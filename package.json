@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "pages": "0.0.16",
     "react-bootstrap": "^2.4.0"
   }
 }
